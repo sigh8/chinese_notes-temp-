@@ -41,7 +41,7 @@
 | guó (国)      | country/nation          | yīshēng (医生) | doctor              | shūbāo (书包) | book bag             |        |               |
 | rén (人)      | person                   | shū (书)      | book                | bǐ (笔)     | pen                  |        |               |
 | zhōngguó (中国) | China                    | zhōngwén (中文) | Chinese Language    | xiànzài (现在) | now                |        |               |
-| mēngjiālāguó (孟加拉国) | Bangladesh               | hànzì (汉字)    | Chinese characters | yǒudiǎnr (有点儿) | a little/some      |        |               |
+| mēngjiālāguó (孟加拉国) | Bangladesh               | hànzì (汉字)    | Chinese characters | yǒudiǎnr (有点儿) | a little/some / to some extent |               |
 | tángnán (塔尔南) | Bangladeshi Student      | hóngsè (红色)   | red color           |         |                      |        |               |
 
 ## Verbs
