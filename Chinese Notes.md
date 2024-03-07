@@ -53,7 +53,7 @@
 | Xué (学)      | study                    | qù (去)        | to go     |        |              |        |         |
 | Liú (留)      |                          | bāng (帮)      | to help   |        |              |        |         |
 | LiúXué (留学) | to study abroad          | yùxí (预习)      | to preview |        |              |        |         |
-| háiyǒu (还有)       | also there are/also have/and | jiào   | to teach |        |              |        |         |
+| háiyǒu (还有)       | also there are/also have/and | jiào(教)   | teach |        |              |        |         |
 | zhōng (中)        | center                   | xiě (写)       | write     |        |              |        |         |
 |             |                           |           |           |        |              |        |         |
 
