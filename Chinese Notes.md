@@ -20,7 +20,7 @@
 
 ## Common Phrases
 - Nǐ Hǎo (你好) - Hello
-- Wǒ hěn hǎo - I'm fine
+- Wǒ hěn hǎo(我很好) - I'm good
 - Zàijiàn (再见) - See you again
 - Nǐ hǎo ma (你好吗) - Are you well?
 - Nǐ jiào shénme míngzì? (你叫什么名字) - What is your name?
