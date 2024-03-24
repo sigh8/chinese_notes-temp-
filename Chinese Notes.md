@@ -12,11 +12,13 @@ page-[16](16.jpg),[22](22.jpg),[23](23.jpg),[29](29.jpg),[30](30.jpg),[37](37.jp
 
 ## WH Words
 - ma (吗) - interrogative particle for questions expecting yes or no answers
+**After Verb**
 - Shénme (什么) - What
 - Shéi (谁) - Who
 - Shéi de (谁的) - Whose
 - Nǎ (哪) - Which
 - Nǎr (哪里) - Where
+**Before Verb**
 - Zěnme (怎么) - How
 - Shénme shí hòu - When
 - Wèi shénme - Why
